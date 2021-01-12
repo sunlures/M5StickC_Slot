@@ -3,7 +3,7 @@
 //
 #pragma once
 
-#include <M5StickC.h>
+#include <M5StickCplus.h>
 
 #define SLOT_COUNT 3
 
